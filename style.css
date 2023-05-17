@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Delicious+Handrawn&display=swap');
+body{
+    background-color: black;
+}
+h1{
+    text-align: center;
+    color: antiquewhite;
+    font-family: 'Delicious Handrawn', cursive;
+}
+p{
+    color: aliceblue;
+    font-family: 'Delicious Handrawn', cursive;
+}
+h2{
+    color: aliceblue;
+    font-family: 'Delicious Handrawn', cursive;
+}
+a{
+    color: aliceblue;
+    font-family: 'Delicious Handrawn', cursive;
+}
+ol{
+    color: aliceblue;
+    font-family: 'Delicious Handrawn', cursive;
+}
+img{
+    width: 500px;
+    height: 300px;
+    display: block;
+    margin: 0 auto;
+    border: 2px solid red;
+    border-radius: 50px;
+}
